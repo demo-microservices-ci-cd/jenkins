@@ -1,4 +1,7 @@
 from jenkins/jenkins:lts-alpine
+
+MAINTAINER Anubhav Choudhary "anubhavvir@gmail.com"
+
 USER root
 
 # Pipeline
